@@ -38,7 +38,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
           {/* Mobile top nav (shows only on mobile) */}
           <div className="md:hidden border-b border-white/10 bg-black px-4 py-3">
             <div className="flex items-center justify-between">
-              <div className="text-sm font-semibold text-white/90">Fuloos LDN</div>
+              <div className="text-sm font-semibold text-white/90">StackOS</div>
               <Link
                 href="/"
                 className="text-xs text-white/60 hover:text-white"
